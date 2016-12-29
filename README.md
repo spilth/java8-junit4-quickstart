@@ -12,6 +12,6 @@ $ mvn archetype:generate -B \
     -DarchetypeArtifactId=java8-junit4-quickstart \
     -DgroupId=com.example \
     -DartifactId=helloworld \
-    -Dversion=1.0.2
+    -Dversion=1.0.0
 $ cd helloworld
 ```
