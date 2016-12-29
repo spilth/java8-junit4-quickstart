@@ -4,8 +4,8 @@
 
     <groupId>org.spilth</groupId>
     <artifactId>java8-junit4-quickstart</artifactId>
-    <version>1.0.0</version>
-    <packaging>pom</packaging>
+    <version>1.0.1</version>
+    <packaging>jar</packaging>
 
     <name>java8-junit4-quickstart</name>
     <url>http://spilth.org/</url>
